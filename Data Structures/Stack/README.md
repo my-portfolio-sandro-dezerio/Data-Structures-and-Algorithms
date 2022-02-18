@@ -12,5 +12,5 @@ It has some common methods:
 
 ---
 <div align="center">
-    <img src="./Stack.png" alt="Stack Example">
+    <img src="./Stack.png" alt="Stack Example" />
 </div>
